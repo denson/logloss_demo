@@ -1,2 +1,5 @@
 # logloss_demo
-very brief illustration of log loss metric for classification.
+A very brief illustration of log loss metric for classification.
+
+
+https://www.kaggle.com/wiki/LogLoss
